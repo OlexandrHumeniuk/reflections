@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+An invisible .git folder is created, where the changes to the files 
+will be tracked!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is an intermediate plsce to collect files from working
+directory before putting it into the repository. It is great to create 
+a certain logical steps (changes to the files) before actually committing
+something
