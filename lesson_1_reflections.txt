@@ -1,0 +1,25 @@
+Instead of looking through all lines of code
+I was able to check only several parts of the file
+So it saved lots of time and nerves for me
+
+Instead of rewriting the code in case I've made a
+better solution earlier I will be able just to access
+the earlier version of my code and use it
+
+Using manual commit can cause trouble if you commit rarely 
+but it can be helpful if you make a habit of it and create 
+your own logical approach to version control
+
+Programming often includes using several files on one project 
+so saving all changes in all files
+
+How can you use the commands git log and git diff to view the history of files?
+git log gives a list of commits made to a current repository and comments on them
+git diff give a possibility to look through the changes made in two versions of a file
+
+How might using version control make you more confident to make changes that could break something?
+With version control I will always have my pre-break version saved in case of any problems
+and I will be able to compare those versions
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Front-end coding
