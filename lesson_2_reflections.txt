@@ -9,3 +9,17 @@ staging area is an intermediate plsce to collect files from working
 directory before putting it into the repository. It is great to create 
 a certain logical steps (changes to the files) before actually committing
 something
+
+How can you use the staging area to make sure you have one commit per logical change?
+The change I have added t staging area should comprise one logical change
+before commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful if you want to take several different scenarios in
+building you project. It's like taking a different route while being able to go back.
+
+How do the diagrams help you visualize the branch structure?
+It helped to get a feeling about how branching works and how not to loose important commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We are able to intertwin two versions of the project without loosing any commits we've done.
